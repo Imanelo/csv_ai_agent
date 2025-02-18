@@ -13,22 +13,28 @@ An AI-powered CSV analysis tool that understands natural language queries, built
 ## Installation
 
 1. **Clone repository**
-```bash
+```sh
 git clone https://github.com/YOUR_USERNAME/csv-ai-agent.git
 cd csv-ai-agent
+```
 
 2. **Install Dependencies**
+
+```sh
 pip install -r requirements.txt
 echo "OPENROUTER_API_KEY=your_api_key_here" > .env
+```
+
 
 ## Usage
 **Command Line Interface (CLI)**
+```sh
 python -m app.main
-
+```
 **Graphical User Interface (GUI)**
-
+```sh
 python -m app.gui
-
+```
 **Example Queries**
 
 "Show average salary by department"
