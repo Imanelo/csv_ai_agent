@@ -1,0 +1,6 @@
+langchain
+pandas
+openai
+python-dotenv
+langchain-openai
+langchain-experimental

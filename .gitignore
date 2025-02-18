@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyenv
+myenv/
+venv/
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# Data
+*.data
+*.db
+
+# Logs and outputs
+*.log
+*.out
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Local development
+temp/
+tmp/
